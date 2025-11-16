@@ -121,7 +121,7 @@ nav:
   - More: find-out-more.md
 plugins:
   - search:
-      lang: [en, de, uk, zh-TW]
+      lang: [de, en, uk, zh-TW]
   - macros
   - ezlinks
   - glightbox
@@ -134,6 +134,34 @@ plugins:
       docs_structure: folder
       reconfigure_material: true
       languages:
+        - locale: de
+          name: Deutsch
+          theme:
+            palette:
+              - toggle:
+                  name: Zu hellem Modus wechseln
+              - toggle:
+                  name: Zu dunklem Modus wechseln
+              - toggle:
+                  name: Systemeinstellung verwenden
+          copyright: "© 2013–2025 OpenStreetMap und Mitwirkende, <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.de\" target=\"_blank\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-sa/2.0/80x15.png\" /></a><br />Diese Arbeit steht unter einer <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa/2.0/\" target=\"_blank\">Creative Commons Attribution-ShareAlike 2.0 Generic License</a>."
+          nav_translations:
+            Home: Switch2OSM
+            Why: Warum wechseln?
+            Cases: Fallbeispiele
+            Basics: Die Grundlagen
+            Using: Tiles verwenden
+            Leaflet: Erste Schritte mit Leaflet
+            OpenLayers: Erste Schritte mit OpenLayers
+            MapLibre: Erste Schritte mit MapLibre GL
+            Serving: Tiles bereitstellen
+            Manually: Einen Tile-Server manuell erstellen
+            Docker: Einen Docker Container verwenden
+            Munin: Monitoring mit Hilfe von Munin
+            Updating: Ihre Datenbank aktualisieren, während Benutzer OpenStreetMap bearbeiten
+            Other: Andere Anwendungen
+            Providers: Anbieter
+            More: Mehr erfahren
         - # ISO code of your language
           locale: en
           # Name of your language
@@ -185,38 +213,6 @@ plugins:
             Providers: Providers
             # Menu item name for the /find-out-more.md
             More: Find Out More
-        - locale: de
-          name: Deutsch
-          theme:
-            palette:
-              - toggle:
-                  name: Zu hellem Modus wechseln
-              - toggle:
-                  name: Zu dunklem Modus wechseln
-              - toggle:
-                  name: Systemeinstellung verwenden
-          copyright: "© 2013–2025 OpenStreetMap und Mitwirkende, <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.de\" target=\"_blank\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-sa/2.0/80x15.png\" /></a><br />Diese Arbeit steht unter einer <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa/2.0/\" target=\"_blank\">Creative Commons Attribution-ShareAlike 2.0 Generic License</a>."
-          nav_translations:
-            Home: Switch2OSM
-            Why: Warum wechseln?
-            Cases: Fallbeispiele
-            Basics: Die Grundlagen
-            Using: Tiles verwenden
-            Leaflet: Erste Schritte mit Leaflet
-            OpenLayers: Erste Schritte mit OpenLayers
-            MapLibre: Erste Schritte mit MapLibre GL
-            #Vector Tiles: FIXME: Power of Vector Map Tiles
-            Serving: Tiles bereitstellen
-            Manually: Einen Tile-Server manuell erstellen
-            Docker: Einen Docker Container verwenden
-            Munin: Monitoring mit Hilfe von Munin
-            Updating: Ihre Datenbank aktualisieren, während Benutzer OpenStreetMap bearbeiten
-            #Serving vector tiles: FIXME: ???
-            #Steps: FIXME: ???
-            #TileServer GL: FIXME: ???
-            Other: Andere Anwendungen
-            Providers: Anbieter
-            More: Mehr erfahren
         - locale: uk
           name: Українська
           theme:
