@@ -16,7 +16,7 @@ Sehen Ihre Karten aus wie die von allen anderen? Zahlen Sie hohe Gebühren nur u
 
 Wechseln sie zu OpenStreetMap und entdecken Sie, wie Sie hübsche Karten aus den weltbesten Kartendaten erstellen können.
 
-[Using Tiles](/using-tiles/index.md){ .md-button .md-button--primary } [Serving Tiles](/serving-tiles/index.md){ .md-button }
+[Tiles verwenden](/using-tiles/index.md){ .md-button .md-button--primary } [Tiles bereitstellen](/serving-tiles/index.md){ .md-button }
 
 ///
 
