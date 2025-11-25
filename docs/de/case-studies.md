@@ -14,12 +14,12 @@ Lesen Sie [Nestoria’s Bericht über den Wechsel von Google Maps zu OpenStreetM
 
 ## StreetEasy.com
 
-> “Wir bei StreetEasy haben entschieden unsere eigenen Karten zu erstellen ... to build our own maps using, among other tools, OpenStreetMap, TileMill, MapBox and Leaflet, instead of paying hundreds of thousands of dollars per year to Google. And yes, the money pushed us into doing it, but we’re happier with the result because we now control the contents of our maps.”
+> “Wir bei StreetEasy haben entschieden unsere eigenen Karten mittels (unter anderem) OpenStreetMap, TileMill, MapBox und Leaflet zu erstellen, anstatt jedes Jahr Hunderttausende Dollar an Google zu zahlen. Und ja, das Geld hat uns dazu gebracht es zu tun. Aber wir sind mit dem Ergebnis zufriedener, weil wir jetzt den Inhalt unserer Karten kontrollieren.”
 
 Lesen Sie [StreetEasy’s story of switching from Google Maps to OpenStreetMap](https://medium.com/devseed/streeteasy-makes-the-switch-to-mapbox-from-google-3784c10a041f){: target=blank}.
 
 ## Flickr
 
-> “A fantastic project called OpenStreetMap – a free, editable map of the world, made by the people in it. What an exciting prospect to be able to see maps that are alive and have been lovingly created by citizen cartographers all over the world. What an even more exciting prospect to be able to display those maps in Flickr! We racked our brains for a place that we knew we didn’t have a very good street-level resolution for, and had something going on there right now… The 2008 Summer Olympic Games! They just kicked off in Beijing!”
+> “Ein fantastisches Projekt namens OpenStreetMap – eine kostenlose, editierbare Karte der Welt, gemacht von Menschen darauf. Was für eine aufregender Perspektive, Karten sehen zu können, die lebendig sind und liebevoll von Hobby-Kartographen aus der ganzen Welt erstellt wurden. Was für eine sogar noch aufregendere Perspektive, diese Karten in Flickr anzeigen zu können! Wir haben uns wegen einem Ort die Köpfe zerbrochen, von dem wir wussten, dass wir dafür keine besonders gute Auflösung auf Straßenebene hatten und an dem gerade etwas los war… Die Olympischen Sommerspiele 2008! Sie haben gerade in Peking begonnen!”
 
 Lesen Sie [Flickr’s reasons for using OpenStreetMap](http://blog.flickr.net/en/2008/08/12/around-the-world-and-back-again/){: target=blank}.
