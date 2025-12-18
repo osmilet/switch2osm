@@ -7,9 +7,9 @@ title: Erste Schritte mit MapLibre GL
 
 ## Einleitung
 
-[MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/){: target=blank} ist eine TypeScript Library, die WebGL zur Einbindung von Karten nutzt. Es verwendet eine freizügige BSD Open-Source Lizenz - kann also ohne Bedenken legal in jede Seite integriert werden. Der Quellcode ist auf [GitHub](https://github.com/maplibre/maplibre-gl-js/){: target=blank} verfügbar.
+[MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/){: target=blank} ist eine TypeScript-Library, die WebGL zur Einbindung von Karten nutzt. Es verwendet eine freizügige BSD Open-Source Lizenz - kann also ohne Bedenken legal in jede Seite integriert werden. Der Quellcode ist auf [GitHub](https://github.com/maplibre/maplibre-gl-js/){: target=blank} verfügbar.
 
-Wir beschränken uns hier auf ein kleines, eigenständiges Beispiel und verweisen auf die offiziellen [Tutorials](https://maplibre.org/maplibre-gl-js/docs/examples/){: target=blank} und [Dokumentation](https://maplibre.org/maplibre-gl-js/docs/API/){: target=blank} für komplexere Anwendungen.
+Wir beschränken uns hier auf ein kleines, eigenständiges Beispiel und verweisen für komplexere Anwendungen auf die offiziellen [Tutorials](https://maplibre.org/maplibre-gl-js/docs/examples/){: target=blank} und die [Dokumentation](https://maplibre.org/maplibre-gl-js/docs/API/){: target=blank}.
 
 ## Erste Schritte
 
@@ -45,7 +45,7 @@ cd style
 mkdir release
 ```
 
-Sprites und Glyphen zu erzeugen kann komplizierter Prozess sein, aber da wir sie nicht modifizieren müssen, werden wir vorgefertigte verwenden
+Sprites und Glyphen zu erzeugen kann ein komplizierter Prozess sein, aber da wir sie nicht modifizieren müssen, werden wir vorgefertigte verwenden
 
 ```sh
 curl -OL https://github.com/versatiles-org/versatiles-style/releases/download/v5.7.0/sprites.tar.gz
@@ -86,7 +86,7 @@ Kopieren Sie den Inhalt des "release" Verzeichnisses an den vorher gewählten Or
 
 ### `node_modules/.bin/tsx build.ts` lässt sich nicht ausführen
 
-Wenn Sie eine veraltete Version von node verwenden, wir dieses Kommando fehlschlagen. Sie können dies beheben, indem Sie, wie oben beschrieben, eine aktuelle Version mit nvm installieren.
+Wenn Sie eine veraltete Version von node verwenden, wird dieses Kommando fehlschlagen. Sie können dies beheben, indem Sie, wie oben beschrieben, eine aktuelle Version mit nvm installieren.
 
 ### Auf der Webseite wird nichts geladen
 
